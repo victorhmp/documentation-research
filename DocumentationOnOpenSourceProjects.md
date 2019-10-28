@@ -4,7 +4,7 @@ Every year, GitHub releases a list of the top open source projects hosted in the
 
 Below is a list with the results for 2018:
 
-![list-open-source](https://imgur.com/dyPNKHh)
+![list-open-source](https://i.imgur.com/dyPNKHh.png)
 
 We're going to take a look at how these top projects handle their documentation.
 
@@ -17,7 +17,7 @@ They have a website dedicated to VSCode at: <https://code.visualstudio.com/>. An
 - The whole website is using _React_ (an outdated version, btw).
 - The first thing you see is this:
 
-  ![vs-code-docs-home](https://imgur.com/Ynxr3Re)
+  ![vs-code-docs-home](https://i.imgur.com/Ynxr3Re.png)
 
   which is an overview section, followed by a gallery of the most used extensions for the editor, a "First Steps" section that contains a list of useful links to get the user up-and-running quickly, three links to resources regarding Keyboard Shortcuts, a link to download VSCode and finally some links regarding privacy.
 
@@ -26,7 +26,7 @@ They have a website dedicated to VSCode at: <https://code.visualstudio.com/>. An
 When navigating to an articles page, such as the one at
 <https://code.visualstudio.com/docs/setup/setup-overview> (notice the URL structure), we can see an **Edit** button right at the top of the article:
 
-![vs-code-article-page](https://imgur.com/p6m27tc)
+![vs-code-article-page](https://i.imgur.com/p6m27tc.png)
 
 and the most awesome part is that, when you click on it, you're taken to a [Git repository](https://github.com/Microsoft/vscode-docs/blob/master/docs/setup/setup-overview.md) which contains all the _text content_ for their documentation, written in Markdown! So their documentation is actually colaborative!
 
